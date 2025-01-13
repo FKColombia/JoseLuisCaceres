@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Franco;Lina;;;
-FN: Lina Franco
+N:Caceres;Jose Luis;;;
+FN: Jose Luis Caceres
 ORG: Fresenius Kabi Colombia;
-TITLE: Representante de Promoción y Acceso
-EMAIL;type=INTERNET;type=WORK;type=pref:lina.franco@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573163118744
+TITLE: Analista de Compras
+EMAIL;type=INTERNET;type=WORK;type=pref:jose.caceres@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573138008926
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
